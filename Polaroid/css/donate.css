@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*FIRST*/
+
+#first_screen {
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url(../img/donate_bg.jpg);
+}
+
+.article_one{
+	width: 75vw;
+	margin: 0px auto;
+}
+
+.headline{
+	font-size: 70px;
+	text-align: center;
+	color: #666666;
+	padding-top: 30vh;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 2px;
+}
+
+.txt{
+	color: #666666;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.pay{
+	
+}
